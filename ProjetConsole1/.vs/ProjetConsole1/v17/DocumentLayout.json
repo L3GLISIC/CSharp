@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19E7B5E-73F6-48EA-9D6C-64AF58347209}|Exo5\\Exo5.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\exo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19E7B5E-73F6-48EA-9D6C-64AF58347209}|Exo5\\Exo5.csproj|solutionrelative:exo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B390C69B-AFE2-47C2-8EA5-AA9871C4BED2}|Exo4\\Exo4.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\exo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B390C69B-AFE2-47C2-8EA5-AA9871C4BED2}|Exo4\\Exo4.csproj|solutionrelative:exo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA42A51-13AF-4253-B46D-B2B758419438}|Exo2\\Exo2.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\exo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA42A51-13AF-4253-B46D-B2B758419438}|Exo2\\Exo2.csproj|solutionrelative:exo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4B4E3F-96B9-4975-9B09-47689119176A}|Exo3\\Exo3.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\exo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4B4E3F-96B9-4975-9B09-47689119176A}|Exo3\\Exo3.csproj|solutionrelative:exo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06E6188-C29C-4148-920F-9343DED26619}|ProjetConsole1\\ProjetConsole1.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\projetconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06E6188-C29C-4148-920F-9343DED26619}|ProjetConsole1\\ProjetConsole1.csproj|solutionrelative:projetconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo5\\Program.cs",
+              "RelativeDocumentMoniker": "Exo5\\Program.cs",
+              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo5\\Program.cs*",
+              "RelativeToolTip": "Exo5\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:32:34.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo4\\Program.cs",
+              "RelativeDocumentMoniker": "Exo4\\Program.cs",
+              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo4\\Program.cs",
+              "RelativeToolTip": "Exo4\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:18:24.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo3\\Program.cs",
+              "RelativeDocumentMoniker": "Exo3\\Program.cs",
+              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo3\\Program.cs",
+              "RelativeToolTip": "Exo3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:02:53.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo2\\Program.cs",
+              "RelativeDocumentMoniker": "Exo2\\Program.cs",
+              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo2\\Program.cs",
+              "RelativeToolTip": "Exo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:55:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\ProjetConsole1\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetConsole1\\Program.cs",
+              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\ProjetConsole1\\Program.cs",
+              "RelativeToolTip": "ProjetConsole1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:45:48.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
