@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{ED4B4E3F-96B9-4975-9B09-47689119176A}|Exo3\\Exo3.csproj|solutionrelative:exo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B06E6188-C29C-4148-920F-9343DED26619}|ProjetConsole1\\ProjetConsole1.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\projetconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06E6188-C29C-4148-920F-9343DED26619}|ProjetConsole1\\ProjetConsole1.csproj|solutionrelative:projetconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B06E6188-C29C-4148-920F-9343DED26619}|ProjetConsole1\\Exo1.csproj|c:\\users\\julesbest\\documents\\informatique\\l3gl\\c#\\projetconsole1\\projetconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06E6188-C29C-4148-920F-9343DED26619}|ProjetConsole1\\Exo1.csproj|solutionrelative:projetconsole1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo5\\Program.cs",
               "RelativeDocumentMoniker": "Exo5\\Program.cs",
-              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo5\\Program.cs*",
-              "RelativeToolTip": "Exo5\\Program.cs*",
+              "ToolTip": "C:\\Users\\julesBest\\Documents\\INFORMATIQUE\\L3GL\\C#\\ProjetConsole1\\Exo5\\Program.cs",
+              "RelativeToolTip": "Exo5\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T11:32:34.981Z",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Exo4\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:18:24.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T11:18:24.417Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Exo3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:02:53.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T11:02:53.651Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Exo2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T10:55:25.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T10:55:25.198Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ProjetConsole1\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T10:45:48.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T10:45:48.921Z"
             }
           ]
         }

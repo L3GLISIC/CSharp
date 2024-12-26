@@ -1,0 +1,10 @@
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\bin\Debug\Exo3.exe.config
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\bin\Debug\Exo3.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\bin\Debug\Exo3.pdb
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.csproj.AssemblyReference.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.frmPersonne.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.Properties.Resources.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.csproj.GenerateResource.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.csproj.CoreCompileInputs.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo3\obj\Debug\Exo3.pdb

@@ -1,0 +1,10 @@
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\bin\Debug\Exo10.exe.config
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\bin\Debug\Exo10.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\bin\Debug\Exo10.pdb
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.csproj.AssemblyReference.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.frmCompare.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.Properties.Resources.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.csproj.GenerateResource.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.csproj.CoreCompileInputs.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo10\obj\Debug\Exo10.pdb
