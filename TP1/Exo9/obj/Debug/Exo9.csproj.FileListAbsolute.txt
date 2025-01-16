@@ -1,0 +1,10 @@
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\bin\Debug\Exo9.exe.config
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\bin\Debug\Exo9.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\bin\Debug\Exo9.pdb
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.csproj.AssemblyReference.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.frmClock.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.Properties.Resources.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.csproj.GenerateResource.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.csproj.CoreCompileInputs.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo9\obj\Debug\Exo9.pdb

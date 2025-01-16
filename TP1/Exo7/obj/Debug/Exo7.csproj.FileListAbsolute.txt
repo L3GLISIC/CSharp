@@ -1,0 +1,10 @@
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\bin\Debug\Exo7.exe.config
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\bin\Debug\Exo7.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\bin\Debug\Exo7.pdb
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.csproj.AssemblyReference.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.Properties.Resources.resources
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.csproj.GenerateResource.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.csproj.CoreCompileInputs.cache
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.exe
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.pdb
+C:\Users\julesBest\Documents\INFORMATIQUE\L3GL\C#\TP1\Exo7\obj\Debug\Exo7.frmEquation.resources
